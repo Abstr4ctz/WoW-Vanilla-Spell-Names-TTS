@@ -10,8 +10,6 @@ This repository contains **TTS (Text-to-Speech) spell and item names** for **WoW
 ## 💡 Contributing  
 - If you notice **missing spell names**, feel free to contribute by submitting them.
 
-## ✨ Create your own  
-
 ## 🔧 Troubleshooting  
 If you run into issues, check these resources:  
 - 🔍 [Google](https://google.com/)  
@@ -31,11 +29,8 @@ This guide will walk you through installing **Edge TTS (Microsoft's TTS system)*
 ---
 
 ## 🔎 Finding Available Voices
-To see a full list of available voices, run the following command:
-```sh
-edge-tts --list-voices
-```
-This will display all available voices, along with their language codes. You can change the voice in the script by modifying the `VOICE` variable.
+To see **available voices**, visit [this site](https://learn.microsoft.com/en-us/azure/ai-services/speech-service/language-support?tabs=tts).
+You can change the voice in the script by modifying the `VOICE` variable.
 
 ---
 
